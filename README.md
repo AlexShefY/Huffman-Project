@@ -5,7 +5,7 @@ Simple tool on C++ for encoding/decoding text using Huffman algorithm
 
 first, go to the [hw-02_huffman](hw-02_huffman) directory
 
-run cmake to build program
+run cmake --build
 
 **Run**
 
