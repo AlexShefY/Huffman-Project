@@ -3,7 +3,7 @@ Simple tool on C++ for encoding/decoding text using Huffman algorithm
 
 **Build**
 
-first, go to the ./hw-02_huffman directory
+first, go to the ![hw-02_huffman](hw-02_huffman) directory
 
 run cmake to build program
 
